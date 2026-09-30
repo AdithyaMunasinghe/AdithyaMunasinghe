@@ -83,15 +83,13 @@ The project explores:
 - Exploring machine learning in cybersecurity
 - Strengthening security operations and enterprise-network knowledge
 
-## 📊 GitHub Activity
 
-![Adithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdithyaMunasinghe&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdithyaMunasinghe&layout=compact&theme=github_dark&hide_border=true)
 
 ## 🤝 Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-AdithyaMunasinghe-181717?style=for-the-badge&logo=github)](https://github.com/AdithyaMunasinghe)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/AdithyaMunasinghe)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kavindi-munasinghe-297458231/)
 
 ---
 
