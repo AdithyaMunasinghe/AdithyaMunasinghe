@@ -1,4 +1,4 @@
-# Hi, I'm Adithya Munasinghe 👋
+# Hi, I'm Kavindi Munasinghe 👋
 
 ### Cybersecurity Graduate | Digital Forensics | Security Operations | GRC
 
